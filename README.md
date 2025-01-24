@@ -1,6 +1,6 @@
 ## Hi I'm Shafrizal Fadillah Akbar
 
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa dan penggemar data berbasis di Universitas Mercu Buana. Saya senang menyelesaikan masalah melalui coding, mengeksplorasi machine learning, dan membangun proyek yang berdampak. 
+Selamat datang di profil GitHub saya! Saya seorang Mahasiswa di Universitas Mercu Buana. Saya senang menyelesaikan masalah melalui coding, mengeksplorasi machine learning, dan membangun proyek yang berdampak. 
 
 # 💫 About Me:
 Saya sedang belajar di Universitas Mercu Buana. Saya sangat tertarik untuk menjadi data analysis dan ingin mempelajarinya lebih lanjut.
